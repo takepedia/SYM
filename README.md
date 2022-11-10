@@ -12,4 +12,4 @@
   - 最終発表のスライドである．
   - 同様のものが [Google ドライブ](https://drive.google.com/file/d/1ZMcxagpwbPWNTZRzaKKazZP4VUVhuk4u/view?usp=sharing) で共有されている．
 - `04_source`
-  - プログラムが全て含まれるディレクトリであり，本レポジトリの `README.md` 以外のファイルが含まれる．
+  - プログラムが全て含まれるディレクトリである．
