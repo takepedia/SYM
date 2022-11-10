@@ -2,11 +2,14 @@
 
 ## 課題提出について
 
-提出するファイルは以下の通りである．
+提出するファイルは本レポジトリに含まれる `04.zip` である．
+これは以下のファイル・ディレクトリを圧縮したものである．
 
-- プログラム：本レポジトリに含まれる `SYM.zip`
-  - 本レポジトリの `README.md` 以外のファイルを圧縮したもの
-- スライド
-  - PDF データ：[Google ドライブ](https://drive.google.com/file/d/1ZMcxagpwbPWNTZRzaKKazZP4VUVhuk4u/view?usp=sharing) で共有
-  - PowerPoint データ：[Google ドライブ](https://docs.google.com/presentation/d/1i1OKnSeBsQ87AmtkzslVsQmEDerB6AKO/edit?usp=sharing&ouid=117186873964045674982&rtpof=true&sd=true) で共有
-- デモ動画：[Google ドライブ](https://drive.google.com/file/d/1gZgHbqAqi3u6yT85Bfykeij6ADR4wHNY/view?usp=sharing) で共有
+- `04_demo.mp4`
+  - デモ動画である．
+  - 同様のものが [Google ドライブ](https://drive.google.com/file/d/1gZgHbqAqi3u6yT85Bfykeij6ADR4wHNY/view?usp=sharing) で共有されている．
+- `04_slide.pdf`
+  - 最終発表のスライドである．
+  - 同様のものが [Google ドライブ](https://drive.google.com/file/d/1ZMcxagpwbPWNTZRzaKKazZP4VUVhuk4u/view?usp=sharing) で共有されている．
+- `04_source`
+  - プログラムが全て含まれるディレクトリであり，本レポジトリの `README.md` 以外のファイルが含まれる．
